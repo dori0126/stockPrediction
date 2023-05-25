@@ -1,7 +1,7 @@
 # stockPrediction
 
 # RNN을 이용한 주식가격 예측
-> 간략한 프로젝트 소개 문구를 작성합니다.
+> 딥러닝 RNN 기반의 검색 빈도수를 이용한 주가예측
 
  <메인 라이브러리같은걸 기술해야함>
 [![NPM Version][npm-image]][npm-url]
